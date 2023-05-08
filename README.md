@@ -1,5 +1,5 @@
 # DataProjects
 
-![image](https://user-images.githubusercontent.com/132468837/236771604-dd249109-af15-482a-af4f-5326188208bb.png)
+![image](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=6c09b9522wuvppnnwylwwbi02a26hhbhuchmaxfnn54ivie7&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
-Repo with data analysis projects
+## Repo with data analysis projects
